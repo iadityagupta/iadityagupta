@@ -27,6 +27,8 @@
 <a href="https://instagram.com/i_adityagupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i_adityagupta/" height="30" width="40" /></a>
 <a href="https://twitter.com/i_adityagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phoneclicker_" height="30" width="40" /></a>
 
+
+
 </p>
 <br>
 <br>
@@ -35,3 +37,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iadityagupta&show_icons=true&locale=en&layout=compact" alt="iadityagupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iadityagupta" & alt="iadityagupta" /></p>
+
+</br>
+ 
+  ![Snake animation](https://github.com/iadityagupta/iadityagupta/blob/output/github-contribution-grid-snake.svg)
+
+  
