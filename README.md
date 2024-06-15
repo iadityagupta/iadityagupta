@@ -1,7 +1,7 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+👋%2C+I'm+Aditya Gupta;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+👋%2C+I'm+Aditya+Gupta;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
 </h1>
 
 <h3 align="center">Aspiring data engineer, currently pursuing a B.E. in Electronics and Instrumentation at IET DAVV, Indore.<br>.</h3>
@@ -28,7 +28,8 @@
 <a href="https://twitter.com/i_adityagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phoneclicker_" height="30" width="40" /></a>
 
 </p>
-
+<br>
+<br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iadityagupta&show_icons=true&locale=en&layout=compact" alt="iadityagupta" /></p>
