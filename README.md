@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
-<h3 align="center">A passionate Data ethusiast from India</h3>
+
+![MasterHead](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+👋%2C+I'm+Aditya Gupta;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+</h1>
+
+<h3 align="center">Aspiring data engineer, currently pursuing a B.E. in Electronics and Instrumentation at IET DAVV, Indore.<br>.</h3>
+<img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/his-office-guy-programmer-sits-front-computer-screen-to-write-software-code-concept-ai-generative-his-270562642.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iadityaguptar&label=Profile%20views&color=0e75b6&style=flat" alt="iadityagupta" /> </p>
 
 
 
-- 🔭 I’m currently working on **Data Engineering**
+- 🔭 I’m currently working on upskilling in the domain of **Data Engineering and Cloud technologies**.
 
 - 🌱 I’m currently learning **Generative AI, Machine Learning, Data Science, Natural Language Processing**
 
@@ -16,12 +23,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aditya453gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phoneclicker_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya453gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya453gupta/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/i_adityagupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i_adityagupta/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya453gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya453gupta/" height="30" width="40" /></a>
+<a href="https://instagram.com/i_adityagupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i_adityagupta/" height="30" width="40" /></a>
+<a href="https://twitter.com/i_adityagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phoneclicker_" height="30" width="40" /></a>
+
 </p>
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iadityagupta&show_icons=true&locale=en&layout=compact" alt="iadityagupta" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iadityagupta" & alt="iadityagupta" /></p>
