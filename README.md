@@ -20,6 +20,7 @@
 
 - 📫 How to reach me **aditya453gupta@gmail.com**
 
+- 📝 To view my Portfolio click here: [_Portfolio_](https://iadityagupta.github.io/PortfolioSite/).
 
 <br>
 
@@ -34,7 +35,7 @@
   <a href="https://twitter.com/i_adityagupta" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phoneclicker_" height="30" width="40" /></a>
 </p>
 
-<br>
+<br></br>
 
 
 
@@ -42,11 +43,9 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iadityagupta&show_icons=true&locale=en&layout=compact" alt="iadityagupta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iadityagupta&show_icons=true&locale=en&layout=compact" alt="iadityagupta" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iadityagupta" & alt="iadityagupta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iadityagupta" & alt="iadityagupta" /></p>
 
-</br>
  
 
 
