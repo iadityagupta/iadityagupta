@@ -7,8 +7,12 @@
 <h3 align="center">Aspiring data engineer, currently pursuing a B.E. in Electronics and Instrumentation at IET DAVV, Indore.<br>.</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/his-office-guy-programmer-sits-front-computer-screen-to-write-software-code-concept-ai-generative-his-270562642.jpg">
 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=iadityaguptar&label=Profile%20views&color=0e75b6&style=flat" alt="iadityagupta" width="170" height="45" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iadityaguptar&label=Profile%20views&color=0e75b6&style=flat" alt="iadityagupta" /> </p>
+
+
 
 
 
@@ -33,7 +37,9 @@
   <a href="https://www.linkedin.com/in/aditya453gupta/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya453gupta/" height="30" width="40" /></a>
   <a href="https://instagram.com/i_adityagupta/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i_adityagupta/" height="30" width="40" /></a>
   <a href="https://twitter.com/i_adityagupta" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phoneclicker_" height="30" width="40" /></a>
-</p>
+</p>                                                                                                                           
+
+<nbsp><nbsp> 
 
 <br></br>
 
