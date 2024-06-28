@@ -24,7 +24,7 @@
 
 <br>
 
-### I also write blogs break down complex stuff into simple, fun reads. You can check them out here: [**Medium**📝](https://medium.com/@aditya453gupta)
+### I also write blogs where I break down complex stuff into simple and fun reads. You can check them out here: [**Medium**📝](https://medium.com/@aditya453gupta)
 
 
 
