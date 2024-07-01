@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **aditya453gupta@gmail.com**
 
-- 📝 To view my Portfolio click here:  [ **_Portfolio_** ](https://iadityagupta.github.io/PortfolioSite/).  
+- 📝 **To view my Portfolio click here:**  [ **Portfolio** ](https://iadityagupta.github.io/PortfolioSite/).  
 
 
 <br>
