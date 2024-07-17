@@ -4,7 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+👋%2C+I'm+Aditya+Gupta;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
 </h1>
 
-<h3 align="center">Aspiring data engineer, currently pursuing B.E. in Electronics and Instrumentation at IET DAVV, Indore.<br></h3><br>
+<h3 align="center">Aspiring data engineer, currently pursuing 
+ B.E. in Electronics and Instrumentation at IET DAVV, Indore.<br></h3><br>
 <img align="right" alt="coding" width="300" src="https://thumbs.dreamstime.com/b/his-office-guy-programmer-sits-front-computer-screen-to-write-software-code-concept-ai-generative-his-270562642.jpg">
 
  <p align="left">
